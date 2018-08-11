@@ -1,13 +1,13 @@
 class Star{
   
   final static int POST_IMAGES = 10;
-  final static int INTERMEDIATE_IMAGES = 4;
-  final static int MIN_RADIUS = 2;
-  final static int MAX_RADIUS = 7;
-  final static int MIN_SPEED_X = -5;
-  final static int MAX_SPEED_X = 5;
+  final static int INTERMEDIATE_IMAGES = 10;
+  final static float MIN_RADIUS = 2;
+  final static float MAX_RADIUS = 7;
+  final static int MIN_SPEED_X = -20;
+  final static int MAX_SPEED_X = 20;
   final static int MIN_SPEED_Y = 20;
-  final static int MAX_SPEED_Y = 40;
+  final static int MAX_SPEED_Y = 70;
   
   float x;
   float y;
