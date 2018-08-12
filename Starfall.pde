@@ -1,4 +1,4 @@
-int amount = 100;
+int amount = 5;
 ArrayList<Star> stars = new ArrayList<Star>();
 
 void setup() {
